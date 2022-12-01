@@ -1,1 +1,5 @@
-# ZEA_JavaFX_Lab5
+# ZEA_JavaFX_LAB5
+
+![Screenshot](screenshot.png)
+
+![Screenshot](screenshot1.png)
